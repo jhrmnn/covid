@@ -2,4 +2,4 @@ I like the plots on [aatishb.com](https://aatishb.com/covidtrends/), but I miss 
 
 The shown countries/states are those with the most total confirmed cases and more than 200k inhabitants, plus some central European countries that I’m personally interested in.
 
-![](figure.png)
+![](figure.svg)
